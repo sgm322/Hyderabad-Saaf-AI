@@ -1,0 +1,19 @@
+
+> hyderabad-saaf-ai@1.0.0 dev
+> next dev
+
+  ▲ Next.js 14.2.15
+  - Local:        http://localhost:3000
+
+ ✓ Starting...
+ ✓ Ready in 4.6s
+ ○ Compiling / ...
+ ✓ Compiled / in 9.3s (793 modules)
+ GET / 200 in 158ms
+ GET / 200 in 44ms
+ ○ Compiling /report ...
+ ✓ Compiled /report in 1301ms (803 modules)
+ GET /report 200 in 1801ms
+ ○ Compiling /dashboard ...
+ ✓ Compiled /dashboard in 1324ms (912 modules)
+ GET /dashboard 200 in 1567ms
